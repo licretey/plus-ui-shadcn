@@ -1,0 +1,3 @@
+当前项目是一个vue前端工程，我想你帮我使用shadcn-vue这个组件库改造这个前端项目，这个组件库的文档地址是https://www.shadcn-vue.com/docs/introduction.html，我希望尽量使用它的组件来替换element-plus的组件，如果需要手动实现或调整样式，在样式上请参考该组件库;另外它的源码我放到了/home/nico/gitCode/shadcn_vue目录下用于重写组件时的参考。我们一步一步的来改造，每次改造后让我先成功运行看下效果，达到最终将这个前端项目组件、风格、布局替换为shadcn-vue。
+
+当前是一个空目录，我想你帮我使用shadcn-vue这个组件库来重写改造plus-ui这个前端项目，shadcn-vue组件库的文档地址是https://www.shadcn-vue.com/docs/introduction.html，我希望尽量使用它的组件来改掉plus-ui中的element-plus的组件，全局风格和ui上以shadcn-vue为主，如果需要手动实现或调整样式，在样式上请参考该组件库; plus-ui的源码在目录/home/nico/gitCode/plus下，这是它的文档链接；同时shadcn-vue的源码我放到了/home/nico/gitCode/shadcn_vue目录下，用于重写组件时的参考。我们一步一步的来改造，每次改造后让我先成功运行看下效果，达到最终将这个前端项目组件、风格、布局重写替换为shadcn-vue
